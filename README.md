@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,50:E8A33D,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Niranjan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,50:E8A33D,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Niranjan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20and%20Automation%20Specialist&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/Niru22-web">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+decisions+📊;Power+BI+dashboards+%7C+DAX+%7C+Power+Query;Automating+workflows+with+Power+Automate+⚡;Excel+VBA+Macros+that+save+hours+⏱️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+decisions;Power+BI+dashboards+-+DAX+-+Power+Query;Automating+workflows+with+Power+Automate;Excel+VBA+macros+that+save+hours" alt="Typing SVG" />
   </a>
 </p>
 
