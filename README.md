@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,50:E8A33D,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Niranjan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20Platform%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,50:E8A33D,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Niranjan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing animation -->
@@ -19,7 +19,9 @@
 
 ### 🧑‍💼 About Me
 
-- 📊 I'm a **Data Analyst** who builds interactive **Power BI** dashboards and reports
+- 🌐 Portfolio: **[niranjan-portfolio-teal.vercel.app](https://niranjan-portfolio-teal.vercel.app/)**
+- 📊 I'm a **Data Analytics & Automation Specialist** who builds **Power BI** dashboards, enterprise apps and automations that erase busywork
+- ⏱️ One automation alone saved **20 hours** of manual work in a single project
 - ⚡ I automate repetitive business processes with **Power Automate**
 - 🔄 I clean, shape and model data using **Power Query** and **DAX**
 - 🧮 I write **Excel VBA macros** that turn hours of manual work into one click
@@ -38,10 +40,25 @@
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA%20Macros-867DB1?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+---
+
+### 🚀 Live Projects
+
+| Project | What it is | Links |
+|:---|:---|:---|
+| ⏰ **Timesheet Portal** | Enterprise HR timesheet system — live in production | [Live](https://timesheet.asaind.co.in/) |
+| 💼 **Meridian Finance** | Client website built with Next.js | [Live](https://meridian-finance.vercel.app/) · [Code](https://github.com/Niru22-web/meridian-finance) |
+| 📝 **NVK Data Entry** | React web app for structured data entry | [Live](https://nvk-data-entry.vercel.app/) · [Code](https://github.com/Niru22-web/NVK-Data-Entry) |
+| 🧾 **Billing Adjustments** | Python billing automation | [Code](https://github.com/Niru22-web/Billing-Adjustments-LIVE) |
+| 🌐 **Portfolio** | My personal portfolio site | [Live](https://niranjan-portfolio-teal.vercel.app/) |
 
 ---
 
@@ -71,6 +88,9 @@
 ### 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://niranjan-portfolio-teal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/niranjanmulam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:niranjanmulam22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Niru22-web" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
